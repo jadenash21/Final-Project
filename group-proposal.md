@@ -12,14 +12,14 @@ This document is meant to guide you in structuring your group experience through
 ## The team
 _Who is working on this project?_
 
-
+Jade, Ellie, Alex, Richard
 
 
 
 ## The pitch
 _What's the basic pitch for the project? e.g. What kind of thing are you making? Does it have a genre within that overall category? Who is the audience? What are your starting premises?_
 
-
+A choose your own adventure using the geography of Pittsburgh to determine the reader's routes.
 
 
 
