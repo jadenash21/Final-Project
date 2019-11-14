@@ -48,8 +48,12 @@ _You may not be able to pin down dates until you get into the mix and see what's
 
 **by Thursday, 2019-11-14**
 
+Have a few sentences for Alex to input.
+
 
 **by Tuesday, 2019-11-19**
+
+Have the completed script by classtime for Alex.
 
 
 **by Thursday, 2019-11-21**
