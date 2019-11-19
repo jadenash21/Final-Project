@@ -58,7 +58,11 @@ Have the completed script by classtime for Alex.
 
 **by Thursday, 2019-11-21**
 
+Have a rough draft of the project done.
 
+**by Due Date**
+
+Be done
 <!-- add additional dates only if needed; probably best to keep the scope manageable! -->
 
 
